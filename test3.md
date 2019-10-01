@@ -124,7 +124,7 @@ listed below:
 12. After replacing all the lines, save it as a .svg file and export it
     using inline CSS styling.
 
-    ![](media/image11.png)
+    ![](media/image11.png) </br></br>
 
     ![](media/image12.png)
 
@@ -144,7 +144,7 @@ listed below:
     -   After that, the JS is called from the svg using \<script
         href=""\> tag.
 
-        ![](media/image15.png){width="5.535357611548556in" height="2.375in"}
+        ![](media/image15.png)
 
     -   Make sure to reformat the svg code in an appealing way to make it
     easier for anyone to read the code. Make sure each tag such as
